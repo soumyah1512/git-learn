@@ -13,3 +13,10 @@
 
 ## git push origin main
  - pushing into a particular branch
+
+## git branch
+ - to check the branches
+
+## git checkout
+ - to change the branch
+ - (-b) use this for adding a new branch and opening it
